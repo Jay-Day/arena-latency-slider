@@ -17,6 +17,10 @@ This is very problematic. It means that in any online situation, one player can 
 
 It is important to note, as much confusion has presented itself, that instead of the 10f base that you have in Vanilla Ultimate, you can now have a 7f base for input delay. The input slider value replaces the 4f provided by ultimate.
 
+# How to adjust the latency
+
+Once in an arena, use the D-Pad Right/Left to increase/decrease the your input latency. You should see your changes reflected in the top right corner of your screen.
+
 # "How does it not lag?"
 This gets a little bit complex, but bare with me.
 
